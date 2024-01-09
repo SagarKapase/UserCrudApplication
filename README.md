@@ -17,7 +17,7 @@ The User CRUD application provides a RESTful API for managing user data. It allo
 - **ASP.NET Core**: The web framework used to build the API.
 - **Entity Framework Core**: Object-Relational Mapping (ORM) for database operations.
 - **C#**: The programming language used for the application.
-- **Microsoft SQL Server**: The relational database used to store user information.
+- **MYSQL Server**: The relational database used to store user information.
 
 ## Setup Instructions
 
