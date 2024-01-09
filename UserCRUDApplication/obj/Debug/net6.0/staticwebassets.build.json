@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dazVkFaYjQyJnCR43iWR6L8CpTs86VxMdvoqfTlFvVE=",
+  "Source": "UserCRUDApplication",
+  "BasePath": "_content/UserCRUDApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
